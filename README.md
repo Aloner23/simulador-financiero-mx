@@ -147,6 +147,8 @@ npm run dev        # http://localhost:5173/simulador-financiero-mx/
   crédito, anticipos repetidos o inválidos, «reducir plazo» contra «reducir pago», sumas cruzadas (capital
   amortizado + anticipos = monto; total pagado = capital + intereses + comisiones), IVA, TIR contra
   anualidades conocidas, Fisher exacto y meta alcanzada exactamente.
+- **Referencias independientes** (`reference.test.ts`): pago, intereses, IVA, anticipos, CAT con
+  comisiones, CETES con ISR y meta de ahorro contra valores calculados aparte en Python (numpy-financial).
 - **Componentes (Testing Library):** navegación por teclado entre pestañas, sincronización con la URL,
   restauración de un escenario compartido, alta de pagos anticipados e interruptor de IVA accesible.
 

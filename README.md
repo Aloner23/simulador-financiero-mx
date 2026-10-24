@@ -1,5 +1,11 @@
 # Simulador Financiero MX
 
+[**Abrir demo sin registro**](https://aloner23.github.io/simulador-financiero-mx/) · [Fórmulas](#fórmulas) · [Arquitectura](#arquitectura) · [Pruebas](#pruebas) · [Inicio rápido](#inicio-rápido)
+
+**Recorrido de 2 minutos:** compara una inversión con tus propias tasas; abre **Crédito**, añade un pago anticipado y revisa cómo cambia la amortización; usa **Copiar enlace** para conservar el escenario. Las tasas precargadas son ejemplos, no cotizaciones vigentes.
+
+[![CI](https://github.com/Aloner23/simulador-financiero-mx/actions/workflows/ci.yml/badge.svg)](https://github.com/Aloner23/simulador-financiero-mx/actions/workflows/ci.yml)
+
 Simulador educativo para comparar inversiones en pesos (CETES, pagaré, cuenta de ahorro), entender
 cuánto cuesta un crédito de verdad y calcular cuánto apartar para una meta. Todo corre en el navegador
 y cada escenario se puede compartir con un enlace.
